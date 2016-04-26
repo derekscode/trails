@@ -12,10 +12,10 @@ namespace trails.Models
         public string Last { get; set; }
         public int Age { get; set; }
         public string FavoriteBeer { get; set; }
-
+        
         public Runner()
         {
-
+            
         }
     }
 }
